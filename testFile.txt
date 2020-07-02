@@ -1,1 +1,1 @@
-test file
+This is the Newly test file for Jenkins auto-commit,whether it is changed successfully
